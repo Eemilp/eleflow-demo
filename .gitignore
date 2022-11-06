@@ -1,0 +1,10 @@
+.bloop
+.vscode
+.metals
+.bsp
+target
+node_modules
+package-lock.json
+
+project/*
+!project/plugins.sbt
